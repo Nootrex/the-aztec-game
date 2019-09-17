@@ -9,7 +9,7 @@
   },
   "1": {
     "name": "The Cihuateteo",
-    "description": "The Cihuateteo were the spirits of women who dies in childbirth. As Childbirth was considered a battle, these spirits were those who fought and fell valiantly as a warrior.",
+    "description": "The Cihuateteo were the spirits of women who dies in childbirth. As Childbirth was considered a battle, these spirits were those who fought and fell valiantly as a warrior. They have somehow appeared in front of you. It seems you have stepped on their ghostly feet.",
     "hp": 150,
     "damage": 20,
     "speed": 15,
@@ -41,7 +41,7 @@
   },
   "5": {
     "name": "Itzpapalotl",
-    "description": "A fearsome skeletal warrior goddess who rules over the paradise world of Tamoanchan, where victims of infant mortality reside and where humans are created. Here grows the Suckling Tree which bears 400,000 nipples. Hm. Not too school-appropriate but very cool–and scary(?)–nonetheless. She is often depicted as a skeletal being with jaguar claws and wings edged by obsidian knifes. Beware of angering her! It might not end well for you.",
+    "description": "A fearsome skeletal warrior goddess who rules over the paradise world of Tamoanchan, where victims of infant mortality reside and where humans are created. Here grows the Suckling Tree which bears 400,000 nipples. Hm. Not too school-appropriate but very cool–and scary(?)–nonetheless. She is often depicted as a skeletal being with jaguar claws and wings edged by obsidian knifes. You have stepped on her godly toes.",
     "hp": 300,
     "damage": 25,
     "speed": 20,
@@ -49,7 +49,7 @@
   },
   "6": {
     "name": "Citlalicue",
-    "description": "She is a creator goddess, goddess of the stars and the Milky Way, earth, death and darkness. The darkness of the temple just continuously reaffirms her existence in the darkness, the dread, and yet feeling like there is hope in the universe–as long as you respect the stars.",
+    "description": "She is a creator goddess, goddess of the stars and the Milky Way, earth, death and darkness. The darkness of the temple just continuously reaffirms her existence in the darkness, the dread, and yet feeling like there is hope in the universe–as long as you respect the stars. Apparently you have disrespected the stars. Get ready.",
     "hp": 300,
     "damage": 25,
     "speed": 20,
