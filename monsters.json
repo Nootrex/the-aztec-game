@@ -41,7 +41,7 @@
   },
   "5": {
     "name": "Yahui",
-    "description": "A giant reptillian creature with a turtle shell on its back and flint claws",
+    "description": "A giant reptillian creature with a turtle shell on its back and flint claws.",
     "hp": 90,
     "damage": 20,
     "speed": 5,
